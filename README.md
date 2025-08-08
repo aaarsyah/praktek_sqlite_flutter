@@ -5,8 +5,6 @@
 - SQLite
 - CRUD
 - Search
-- 
-<img src= "https://github.com/user-attachments/assets/f53c964d-afa0-4179-bada-19e48cc070db" width="300"/>
 
 ## App
 <img src= "https://github.com/user-attachments/assets/6f7f5d6c-ce0f-4881-8c3b-8fd07f3ac6f9" width="300"/>
@@ -15,4 +13,5 @@
 <img src= "https://github.com/user-attachments/assets/e592f3ab-8008-480f-b62d-0442b8e5af5a" width="300"/>
 <img src= "https://github.com/user-attachments/assets/63263ab4-3868-4b53-8a6c-ff7864bb39ec" width="300"/>
 <img src= "https://github.com/user-attachments/assets/a8a4cccb-a80a-4993-aa01-213c9631239f" width="300"/>
+
 
