@@ -1,16 +1,18 @@
-# prakteksqlite
+# CRUD Data Pelanggan App (SQLite Flutter)
 
-A new Flutter project.
+## Tech Stack
+- Flutter (Dart)
+- SQLite
+- CRUD
+- Search
+- 
+<img src= "https://github.com/user-attachments/assets/f53c964d-afa0-4179-bada-19e48cc070db" width="300"/>
 
-## Getting Started
+## App
+<img src= "https://github.com/user-attachments/assets/6f7f5d6c-ce0f-4881-8c3b-8fd07f3ac6f9" width="300"/>
+<img src= "https://github.com/user-attachments/assets/15d6c32e-5d34-45a2-845b-90fd19d88742" width="300"/>
+<img src= "https://github.com/user-attachments/assets/da78f6f2-f932-430c-abdc-c2ce1efcb456" width="300"/>
+<img src= "https://github.com/user-attachments/assets/e592f3ab-8008-480f-b62d-0442b8e5af5a" width="300"/>
+<img src= "https://github.com/user-attachments/assets/63263ab4-3868-4b53-8a6c-ff7864bb39ec" width="300"/>
+<img src= "https://github.com/user-attachments/assets/a8a4cccb-a80a-4993-aa01-213c9631239f" width="300"/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
